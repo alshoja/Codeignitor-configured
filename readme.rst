@@ -27,6 +27,7 @@ Installation
 ************
 
 I had already Done it for you ,simply use the package and thats the purpose of this package Enjoy Coding :)
+Please change Database username and Pasword according to your Credentials.
 
 *******
 License
