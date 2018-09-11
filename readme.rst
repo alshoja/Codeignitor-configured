@@ -1,5 +1,5 @@
 ###################
-What is CodeIgniter_Configured
+What is CodeIgniter Configured
 ###################
 
 CodeIgniter is an Application Development Framework,The Framework is just configured for production purpose No need of reconfiguiring,simply create the controller all basic libraries and urls are loaded in this package and also htaccess file is also set for avoiding index.php from the core framework
