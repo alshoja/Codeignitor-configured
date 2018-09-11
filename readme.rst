@@ -26,8 +26,8 @@ issues, as well as missing features.
 Installation
 ************
 
-I had already Done it for you ,simply use the package and thats the purpose of this package Enjoy Coding :)
-Please change Database username and Pasword according to your Credentials in you server.
+I had already done it for you ,simply use the package and thats the purpose of this package Enjoy Coding :)
+Please change Database username and Password according to your Credentials in you server.
 
 *******
 License
